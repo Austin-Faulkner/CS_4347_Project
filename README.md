@@ -8,4 +8,5 @@
 ![instance_seg2](https://user-images.githubusercontent.com/7588505/167176821-7e8716a6-7abd-49a9-be8f-d58da975ec87.jpeg)
 ![rcnn1](https://user-images.githubusercontent.com/7588505/167177034-5bcda4cd-86b3-4b26-8fc0-600c4af3953b.jpeg)
 ![rcnn2](https://user-images.githubusercontent.com/7588505/167177057-b4d97219-8e20-4987-9230-67bf857f3ef8.jpeg)
+![scarfalone](https://user-images.githubusercontent.com/7588505/167954115-f5325bd2-07e9-4292-8cf7-be46f5eebd7c.jpeg)
 ![baby](https://user-images.githubusercontent.com/7588505/167176846-b3135983-5fe9-49f2-9c85-6fcea7dc0aef.jpeg)
