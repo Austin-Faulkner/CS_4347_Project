@@ -1,4 +1,4 @@
-# Using COCO and LVIS datasets for Panoptic Segmentation, Instance Segmentation, and Keypoint Detection 
+# Using COCO and LVIS datasets for Panoptic Segmentation, Instance Segmentation, and Keypoint Detection: When is CV Granularity Enough?
 ## (README.md under build . . . 05/11/2022)
 <!-- ![semantic](https://user-images.githubusercontent.com/7588505/167176679-2844e077-1bf1-4c97-85af-fd4597d24541.jpeg) -->
 ![panopt](https://user-images.githubusercontent.com/7588505/167176728-b282be94-7192-4c7a-a387-eba6a6d101c7.jpeg)
